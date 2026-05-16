@@ -1,0 +1,2 @@
+[console_scripts]
+mysql-mcp-server = mysql_mcp.server:main
